@@ -1,3 +1,3 @@
 echo off
-"C:\Users\ik\Downloads\±ùµãÎÄ¿â\bd.exe"
+"C:\Users\ik\Downloads\bd\bd.exe"
 cls

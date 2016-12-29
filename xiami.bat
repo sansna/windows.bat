@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --new-window http://www.xiami.com/radio/play/id/2#wall_list

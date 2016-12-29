@@ -1,3 +1,3 @@
 echo off
-explorer "C:\Program Files\±ùµãÎÄ¿â\kpdf\"
+explorer "C:\Users\ik\Downloads\bd\kpdf\"
 cls
