@@ -1,1 +1,1 @@
-"c:\Windows\System32\notepad.exe" %1
+"notepad" %1
