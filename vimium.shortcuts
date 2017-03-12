@@ -1,0 +1,14 @@
+# Custom key mappings
+mapkey <c-c> <c-[>
+map o Vomnibar.activateInNewTab
+unmap h
+unmap l
+unmap f
+map h previousTab
+map l nextTab
+map f LinkHints.activateModeToOpenInNewTab
+mapkey <c-[> <anyOldJunk>
+
+# Custom search engines
+# b: https://www.baidu.com/s?wd=%s Baidu
+# s: https://stackoverflow.com/search?q=%s StackOverflow
