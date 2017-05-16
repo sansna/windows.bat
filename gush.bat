@@ -1,6 +1,8 @@
 echo off
 
-rem throw the first parameter away
+rem throw the first parameter away by shift, which is "gush"
+shift
+set param1=%0
 shift
 set params=%0
 :loop
@@ -12,4 +14,4 @@ goto loop
 
 git add -A
 git commit -m "%params%"
-git push origin master
+git push origin "%param1%"
