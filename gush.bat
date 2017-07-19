@@ -13,5 +13,5 @@ goto loop
 :afterloop
 
 git add -A
-git commit -m "%params%"
+git commit -S -m "%params%"
 git push origin "%param1%"
