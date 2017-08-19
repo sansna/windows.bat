@@ -35,10 +35,10 @@ h: https://github.com/search?utf8=?&q=%s&type= GitHub
 y: https://www.youtube.com/results?search_query=%s YouTube
 
 # Next Patterns
-next,more,newer,>,?,→,?,?,>>,下一页
+下一页,next,more,newer,>,?,→,?,?,>>
 
 # Previous Patterns
-prev,previous,back,older,<,?,←,?,?,<<,上一页
+上一页,prev,previous,back,older,<,?,←,?,?,<<
 
 # Characters used for link hints
 sadfjklewcmpgh
