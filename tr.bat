@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" https://translate.google.com/#ja/en/ --new-window
