@@ -33,6 +33,7 @@ s: http://stackoverflow.com/search?q=%s StackOverFlow
 h: https://github.com/search?utf8=?&q=%s&type= GitHub
 ºÍ: https://github.com/search?utf8=?&q=%s&type= GayHub
 y: https://www.youtube.com/results?search_query=%s YouTube
+dc: http://downforeveryoneorjustme.org/%s siteDownCheck
 
 # Next Patterns
 ÏÂÒ»Ò³,next,more,newer,>,?,¡ú,?,?,>>
