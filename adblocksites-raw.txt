@@ -2,3 +2,7 @@ http://pos.baidu.com
 http://drmcmm.baidu.com
 http://cpro.baidu.com
 http://hm.baidu.com
+http://gma.alicdn.com
+http://atanx.alicdn.com
+http://p.tanx.com
+http://d2.sina.com
