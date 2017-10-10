@@ -1,8 +1,14 @@
-http://pos.baidu.com
-http://drmcmm.baidu.com
-http://cpro.baidu.com
-http://hm.baidu.com
-http://gma.alicdn.com
-http://atanx.alicdn.com
-http://p.tanx.com
-http://d2.sina.com
+# Use adblock, first to add some block url by subscribe to some rules
+# in the configuration page, choose chinese sites block and subscribe
+# and wait till download succeeded. The following urls are some that
+# I grip manually. However, the subscription shall be more intelligent
+# and complete.
+
+#http://pos.baidu.com
+#http://drmcmm.baidu.com
+#http://cpro.baidu.com
+#http://hm.baidu.com
+#http://gma.alicdn.com
+#http://atanx.alicdn.com
+#http://p.tanx.com
+#http://d2.sina.com
