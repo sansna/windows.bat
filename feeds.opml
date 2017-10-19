@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title/>
+	</head>
+	<body>
+		<outline title="Hack News" text="Hack News">
+			<outline htmlUrl="https://paper.seebug.org/" xmlUrl="https://paper.seebug.org/rss/" version="RSS" type="rss" title="paper - Last paper" text="paper - Last paper"/>
+		</outline>
+		<outline title="Tech News" text="Tech News">
+			<outline htmlUrl="https://techcrunch.com" xmlUrl="https://techcrunch.com/feed/" version="RSS" type="rss" title="TechCrunch" text="TechCrunch"/>
+		</outline>
+		<outline title="CS Dist" text="CS Dist">
+			<outline htmlUrl="https://www.tuna.moe/" xmlUrl="https://tuna.moe/feed.xml" version="RSS" type="rss" title="清华大学 TUNA 协会" text="清华大学 TUNA 协会"/>
+		</outline>
+	</body>
+</opml>
