@@ -13,5 +13,8 @@
 		<outline title="CS Dist" text="CS Dist">
 			<outline htmlUrl="https://www.tuna.moe/" xmlUrl="https://tuna.moe/feed.xml" version="RSS" type="rss" title="清华大学 TUNA 协会" text="清华大学 TUNA 协会"/>
 		</outline>
+		<outline title="OpenEye" text="OpenEye">
+			<outline htmlUrl="http://www.solidot.org" xmlUrl="http://www.solidot.org/index.rss" version="RSS" type="rss" title="最新更新 – Solidot" text="最新更新 – Solidot"/>
+		</outline>
 	</body>
 </opml>
