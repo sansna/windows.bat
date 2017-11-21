@@ -6,8 +6,9 @@ var proxy2 = "SOCKS5 127.0.0.1:1081;"; //sneak
 
 // locals not forward
 var domains_local = {
-  "127.0.0.1": 1,
-  "10.0.5.1": 1
+  "127.0.0": 1,
+  "10.0.2": 1,
+  "10.0.5": 1
 };
 
 // addrs to be gfwed
@@ -23,12 +24,13 @@ var hasOwnProperty = Object.hasOwnProperty;
 function FindProxyForURL(url, host) {
     var suffix;
     var pos = host.lastIndexOf('.');
+	var lansegment = host.substring(0, pos)
     pos = host.lastIndexOf('.', pos - 1);
     while(1) {
         if (pos <= 0) {
             if (hasOwnProperty.call(domains, host)) {
                 return proxy;
-            } else if (hasOwnProperty.call(domains_local, host)) {
+            } else if (hasOwnProperty.call(domains_local, lansegment)) {
                 return direct;
             } else {
                 return proxy2;
