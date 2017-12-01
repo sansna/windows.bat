@@ -1,2 +1,2 @@
-set PATH=%PATH%;C:\MinGW\bin;C:\MinGW\msys\1.0\bin
+set PATH=%PATH%;C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\MinGW\msys\1.0
 cls
