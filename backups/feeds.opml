@@ -15,6 +15,7 @@
 		</outline>
 		<outline title="OpenEye" text="OpenEye">
 			<outline htmlUrl="http://www.solidot.org" xmlUrl="http://www.solidot.org/index.rss" version="RSS" type="rss" title="最新更新 – Solidot" text="最新更新 – Solidot"/>
+			<outline htmlUrl="http://www.solidot.org" xmlUrl="https://www.solidot.org/index.rss" version="RSS" type="rss" title="最新更新 – Solidot" text="最新更新 – Solidot"/>
 		</outline>
 	</body>
 </opml>
