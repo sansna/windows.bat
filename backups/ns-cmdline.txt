@@ -1,0 +1,1 @@
+-t "bash --rcfile <(curl -s https://raw.githubusercontent.com/sansna/dotconf/sshrc/.bashrc)"
