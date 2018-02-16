@@ -19,7 +19,7 @@
 
 # Following are gpg related
 [gpg]
-    program = gpg
+    program = "C:/Program Files (x86)/GnuPG/bin/gpg.exe"
 [commit]
     gpgsign = true
 [user]
