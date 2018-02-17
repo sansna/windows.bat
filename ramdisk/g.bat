@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" http://www.google.com/search?q=%1 -incognito --disk-cache-dir="R:/Temporary Internet Files/Chrome"

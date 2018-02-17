@@ -1,0 +1,6 @@
+echo off
+if "%1" == "h" goto begin 
+mshta vbscript:createobject("wscript.shell").run("%~nx0 h",0)(window.close)&&exit 
+:begin
+start c:\uTorrent\chrome.exe /hide --disk-cache-dir="R:/Temporary Internet Files/Chrome"
+cls
