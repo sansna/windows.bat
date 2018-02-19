@@ -1,0 +1,13 @@
+windows.bat
+
+
+How to Use?
+
+
+First add sysdm.cpl's user variable value: "%USERPROFILE%". Then put all the needed
+batch files under %USERPROFILE%.
+
+How to Run?
+
+
+Type in the filename needed to be run in windows run.
