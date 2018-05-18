@@ -1,1 +1,1 @@
--t "bash --rcfile <(curl -s https://raw.githubusercontent.com/sansna/dotconf/sshrc/.bashrc)"
+-t "bash --rcfile <(curl -s https://raw.githubusercontent.com/sansna/dotconf/sshrc/.bashrc);rm -f ~/.gitconfig /tmp/*.vim /tmp/.screenrc;rm -frd ~/.w3m"
