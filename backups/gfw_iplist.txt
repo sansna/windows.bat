@@ -1,9 +1,13 @@
+# Note: When using, the comments should be deleted.
 # Below Google IP pool
 108.177.125.0/24
 216.58.200.0/24
+172.217.24.0/24
 172.217.27.0/24
+74.125.203.0/24
 74.125.204.0/24
 64.233.189.0/24
+108.177.97.0/24
 # Below gcp
 74.125.23.0/24
 # Below pixiv.net
