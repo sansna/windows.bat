@@ -13,7 +13,7 @@
   "filterLinkHints": false,
   "waitForEnterForFilteredHints": true,
   "hideHud": false,
-  "keyMappings": "mapkey <c-c> <c-[>\nmap o Vomnibar.activateInNewTab\nunmap h\nunmap l\nunmap f\nmap h previousTab\nmap l nextTab\nmap f LinkHints.activateModeToOpenInNewTab\nmapkey <c-[> <anyOldJunk>\nmap s Vomnibar.activate keyword=b",
+  "keyMappings": "mapkey <c-c> <c-[>\nmap o Vomnibar.activateInNewTab\nunmap h\nunmap l\nunmap f\nmap h previousTab\nmap l nextTab\nmap f LinkHints.activateModeToOpenInNewTab\nmapkey <c-[> <anyOldJunk>\nmap s Vomnibar.activateInNewTab keyword=b",
   "linkHintCharacters": "sadfjklewcmpgh",
   "linkHintNumbers": "0123456789",
   "newTabUrl": "about:newtab",
