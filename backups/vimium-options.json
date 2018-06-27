@@ -1,34 +1,30 @@
 {
-  "settingsVersion": "1.62.4",
+  "settingsVersion": "1.63.3",
   "exclusionRules": [
     {
-      "pattern": "https?://mail.google.com/*",
+      "pattern": "https://leetcode-cn.com/*",
       "passKeys": ""
     },
     {
-      "pattern": "https?://www.google.com.hk/*",
-      "passKeys": ""
-    },
-    {
-      "pattern": "https://10.0.5.66/*",
+      "pattern": "https?://console.cloud.google.com/*",
       "passKeys": ""
     }
   ],
   "filterLinkHints": false,
   "waitForEnterForFilteredHints": true,
   "hideHud": false,
-  "keyMappings": "# Insert your preferred key mappings here.\n# Add an additional mapping for Escape:\nmapkey <c-c> <c-[>\nmap o Vomnibar.activateInNewTab\nunmap h\nunmap l\nunmap f\nmap h previousTab\nmap l nextTab\nmap f LinkHints.activateModeToOpenInNewTab\n# Disable <c-[>:\nmapkey <c-[> <anyOldJunk>",
+  "keyMappings": "mapkey <c-c> <c-[>\nmap o Vomnibar.activateInNewTab\nunmap h\nunmap l\nunmap f\nmap h previousTab\nmap l nextTab\nmap f LinkHints.activateModeToOpenInNewTab\nmapkey <c-[> <anyOldJunk>\nmap s Vomnibar.activate keyword=b",
   "linkHintCharacters": "sadfjklewcmpgh",
   "linkHintNumbers": "0123456789",
   "newTabUrl": "about:newtab",
-  "nextPatterns": "下一页,Next,next,more,newer,>,›,→,»,≫,>>,Older",
-  "previousPatterns": "上一页,Prev,prev,previous,back,older,<,‹,←,«,≪,<<,Newer",
+  "nextPatterns": "下一页,next,more,newer,>,?,→,?,?,>>",
+  "previousPatterns": "上一页,prev,previous,back,older,<,?,←,?,?,<<",
   "regexFindMode": false,
-  "ignoreKeyboardLayout": false,
+  "ignoreKeyboardLayout": true,
   "scrollStepSize": 60,
   "smoothScroll": true,
   "grabBackFocus": false,
-  "searchEngines": "w: http://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia\n我: http://www.wikipedia.org/w/index.php?title=Special:Search&search=%s 维基\ndc: http://downforeveryoneorjustme.com/%s siteDownCheck\n# More examples.\n#\n# (Vimium supports search completion Wikipedia, as\n# above, and for these.)\n#\ng: http://www.google.com/search?q=%s Google\n个: http://www.google.com/search?q=%s 谷歌\n# l: http://www.google.com/search?q=%s&btnI I'm feeling lucky...\n# y: http://www.youtube.com/results?search_query=%s Youtube\n# gm: https://www.google.com/maps?q=%s Google maps\n# b: https://www.bing.com/search?q=%s Bing\n#d: https://duckduckgo.com/?q=%s DuckDuckGo\n# az: http://www.amazon.com/s/?field-keywords=%s Amazon\n# qw: https://www.qwant.com/?q=%s Qwant\nb: https://www.baidu.com/s?wd=%s Baidu\n不: https://www.baidu.com/s?wd=%s 百度\ns: http://stackoverflow.com/search?q=%s StackOverFlow\nh: https://github.com/search?utf8=✓&q=%s&type= GitHub\n和: https://github.com/search?utf8=✓&q=%s&type= GayHub\ny: https://www.youtube.com/results?search_query=%s YouTube\nd: http://www.dictionary.com/browse/%s?s=t Dict\no: http://www.alvestrand.no/objectid/%s.html OID\nj: https://dict.hjenglish.com/jp/jc/%s HJ\nx: http://www.xiami.com/search?key=%s xiami\na: https://wiki.archlinux.org/index.php?search=%s&title=Special%3ASearch&go=Go ArchWiki",
+  "searchEngines": "w: http://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia\n我: http://www.wikipedia.org/w/index.php?title=Special:Search&search=%s 维基\n\n# More examples.\n#\n# (Vimium supports search completion Wikipedia, as\n# above, and for these.)\n#\ng: http://www.google.com/search?q=%s Google\n个: http://www.google.com/search?q=%s 谷歌\n# l: http://www.google.com/search?q=%s&btnI I'm feeling lucky...\n# y: http://www.youtube.com/results?search_query=%s Youtube\n# gm: https://www.google.com/maps?q=%s Google maps\n# b: https://www.bing.com/search?q=%s Bing\nd: https://duckduckgo.com/?q=%s DuckDuckGo\n# az: http://www.amazon.com/s/?field-keywords=%s Amazon\n# qw: https://www.qwant.com/?q=%s Qwant\nb: https://www.baidu.com/s?wd=%s Baidu\n不: https://www.baidu.com/s?wd=%s 百度\ns: http://stackoverflow.com/search?q=%s StackOverFlow\nh: https://github.com/search?utf8=?&q=%s&type= GitHub\n和: https://github.com/search?utf8=?&q=%s&type= GayHub\ny: https://www.youtube.com/results?search_query=%s YouTube\ndc: http://downforeveryoneorjustme.org/%s siteDownCheck\nj: https://dict.hjenglish.com/jp/jc/%s HJ\nｊ: https://dict.hjenglish.com/jp/jc/%s HJ",
   "searchUrl": "https://www.google.com/search?q=",
   "userDefinedLinkHintCss": "div > .vimiumHintMarker {\n/* linkhint boxes */\nbackground: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFF785),\n  color-stop(100%,#FFC542));\nborder: 1px solid #E3BE23;\n}\n\ndiv > .vimiumHintMarker span {\n/* linkhint text */\ncolor: black;\nfont-weight: bold;\nfont-size: 12px;\n}\n\ndiv > .vimiumHintMarker > .matchingCharacter {\n}"
 }
