@@ -1,8 +1,11 @@
 set relativenumber
 set hlsearch
+set ignorecase
+set smartcase
 inoremap <C-k> <Up>
 inoremap <C-j> <Down>
 inoremap <C-l> <Right>
 inoremap <C-h> <Left>
 nnoremap <C-c> :nohl<CR><ESC>
+nnoremap <C-Q> :q!<CR>
 vnoremap // y/<C-r>"<CR>N
