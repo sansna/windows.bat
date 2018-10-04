@@ -1,0 +1,6 @@
+set relativenumber
+set hlsearch
+inoremap <C-k> <Up>
+inoremap <C-j> <Down>
+inoremap <C-l> <Right>
+inoremap <C-h> <Left>
