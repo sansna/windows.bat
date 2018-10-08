@@ -23,7 +23,9 @@
 [commit]
     gpgsign = true
 [user]
-    signingkey = DE4635F9
+    signingkey = 7A2D9DCC
 # Walkaround if SSL cert not installed:
 #[http]
 #    sslVerify = false
+[winUpdater]
+	recentlySeenVersion = 2.19.1.windows.1
